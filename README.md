@@ -1,9 +1,8 @@
-# Test
-Testing my first repository
+# Primeiro Projeto - Maratona Rocketseat
+Testando o GitHub adicionando projeto desenvolvido anteriormente
 
->Hi
+>Status: Em aperfeiçoamento
 
 ```
 node nao-sei.js
 ```
->3<
